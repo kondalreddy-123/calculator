@@ -1,1 +1,1 @@
-basic Calculator with operations like addition,subtraction,multiplication,division and percentage.
+Baisc Calculator with operations like addition,subtraction,multiplication,division and percentage.
